@@ -1,0 +1,12 @@
+div{
+    display: inline-block;
+    width: 25%;
+    margin-left: 25px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
